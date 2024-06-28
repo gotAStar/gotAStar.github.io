@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://gotAStar.github.io/sitemap.xml
